@@ -12,7 +12,7 @@ Ce script permet de récupérer des informations sur les paquets et les applicat
 - Liste les applications du système (applications qui sont dans le $PATH) et affiche une brève description.
 - Liste les applications flatpak et affiche une brève description.
 - Liste les applications snap et affiche une brève description.
-- Liste les applications installées par pacstall et affiche une brève description.
+- Liste les applications installées par [pacstall](https://blogdanieldsj.wordpress.com/2023/08/30/pacstall-un-gestionnaire-de-paquets-aur-pour-ubuntu) et affiche une brève description.
 
 - Un document sera créé à la fin de la récupération de toutes ces données, ce document est horodaté et sera enregistré dans le dossier dans lequel le script a été lancé.
 - Ce script est uniquement compatible avec les distributions de la famille Debian.
