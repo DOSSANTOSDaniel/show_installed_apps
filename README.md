@@ -22,4 +22,4 @@ Ce script permet de récupérer des informations sur les paquets et les applicat
 
 ## A faire
 [] Manque dépendance : procps manpages-fr-dev manpages-fr
-
+[] Supprimer les doublons
