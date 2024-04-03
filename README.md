@@ -21,5 +21,5 @@ Ce script permet de récupérer des informations sur les paquets et les applicat
 ![Capture d'écran](capture.png)
 
 ## A faire
-- [ ] Manque dépendance : procps manpages-fr-dev manpages-fr
-- [ ] Supprimer les doublons
+- [ ] Manque dépendance      : procps manpages-fr-dev manpages-fr
+- [ ] Supprimer les doublons 
